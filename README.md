@@ -1,8 +1,8 @@
-# Project 1
+# Project 1 - Lending Club
 Data analysis was performed on real life dataset and then was modeled and Web App was made in Flask and deployed in Heroku.
 
 
-- Dataset - LendingClub dataset 
+### Dataset - LendingClub dataset 
 (https://www.kaggle.com/wordsforthewise/lending-club)
 
 LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It which do provide loans to its customers mainly on the basis of credit score. 
@@ -17,7 +17,7 @@ The machine learning/deep learning model that could predict which of the high in
 
 
 
-- Task-
+### Task
 
 First, implemented some data engineering and preprocessing on LendingClub dataset and prepared data for analysis and modeling. 
 Then applied explanatory data analysis (EDA) to investigate the features. 
