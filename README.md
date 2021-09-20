@@ -1,6 +1,8 @@
 # Project 1 - Lending Club
 Data analysis was performed on real life dataset and then was modeled and Web App was made in Flask and deployed in Heroku.
 
+### *Input-Output of Web-App and Flowchart of methodology are also attached above.*
+
 
 ### Dataset - LendingClub dataset 
 (https://www.kaggle.com/wordsforthewise/lending-club)
