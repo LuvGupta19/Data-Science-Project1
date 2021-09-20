@@ -18,7 +18,7 @@ The machine learning/deep learning model that could predict which of the high in
 
 
 
-### Task
+## Task
 
 First, implemented some data engineering and preprocessing on LendingClub dataset and prepared data for analysis and modeling. 
 Then applied explanatory data analysis (EDA) to investigate the features. 
