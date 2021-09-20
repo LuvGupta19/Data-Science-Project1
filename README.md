@@ -1,4 +1,4 @@
-# Technocolab-ML-internship
+# Project 1
 
 Data analysis was performed on real life dataset and then was modeled and deployed.
 
